@@ -1,0 +1,14 @@
+C:\dev\c#\Reuse_M1\Starter\bin\Debug\net9.0\Reuse_M1.exe
+C:\dev\c#\Reuse_M1\Starter\bin\Debug\net9.0\Reuse_M1.deps.json
+C:\dev\c#\Reuse_M1\Starter\bin\Debug\net9.0\Reuse_M1.runtimeconfig.json
+C:\dev\c#\Reuse_M1\Starter\bin\Debug\net9.0\Reuse_M1.dll
+C:\dev\c#\Reuse_M1\Starter\bin\Debug\net9.0\Reuse_M1.pdb
+C:\dev\c#\Reuse_M1\Starter\obj\Debug\net9.0\Reuse_M1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\c#\Reuse_M1\Starter\obj\Debug\net9.0\Reuse_M1.AssemblyInfoInputs.cache
+C:\dev\c#\Reuse_M1\Starter\obj\Debug\net9.0\Reuse_M1.AssemblyInfo.cs
+C:\dev\c#\Reuse_M1\Starter\obj\Debug\net9.0\Reuse_M1.csproj.CoreCompileInputs.cache
+C:\dev\c#\Reuse_M1\Starter\obj\Debug\net9.0\Reuse_M1.dll
+C:\dev\c#\Reuse_M1\Starter\obj\Debug\net9.0\refint\Reuse_M1.dll
+C:\dev\c#\Reuse_M1\Starter\obj\Debug\net9.0\Reuse_M1.pdb
+C:\dev\c#\Reuse_M1\Starter\obj\Debug\net9.0\Reuse_M1.genruntimeconfig.cache
+C:\dev\c#\Reuse_M1\Starter\obj\Debug\net9.0\ref\Reuse_M1.dll
