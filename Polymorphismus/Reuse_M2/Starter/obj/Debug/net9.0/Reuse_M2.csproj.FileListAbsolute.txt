@@ -1,0 +1,14 @@
+C:\dev\c#\polymorphismus\reuse_m2\starter\bin\Debug\net9.0\Reuse_M2.exe
+C:\dev\c#\polymorphismus\reuse_m2\starter\bin\Debug\net9.0\Reuse_M2.deps.json
+C:\dev\c#\polymorphismus\reuse_m2\starter\bin\Debug\net9.0\Reuse_M2.runtimeconfig.json
+C:\dev\c#\polymorphismus\reuse_m2\starter\bin\Debug\net9.0\Reuse_M2.dll
+C:\dev\c#\polymorphismus\reuse_m2\starter\bin\Debug\net9.0\Reuse_M2.pdb
+C:\dev\c#\polymorphismus\reuse_m2\starter\obj\Debug\net9.0\Reuse_M2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\c#\polymorphismus\reuse_m2\starter\obj\Debug\net9.0\Reuse_M2.AssemblyInfoInputs.cache
+C:\dev\c#\polymorphismus\reuse_m2\starter\obj\Debug\net9.0\Reuse_M2.AssemblyInfo.cs
+C:\dev\c#\polymorphismus\reuse_m2\starter\obj\Debug\net9.0\Reuse_M2.csproj.CoreCompileInputs.cache
+C:\dev\c#\polymorphismus\reuse_m2\starter\obj\Debug\net9.0\Reuse_M2.dll
+C:\dev\c#\polymorphismus\reuse_m2\starter\obj\Debug\net9.0\refint\Reuse_M2.dll
+C:\dev\c#\polymorphismus\reuse_m2\starter\obj\Debug\net9.0\Reuse_M2.pdb
+C:\dev\c#\polymorphismus\reuse_m2\starter\obj\Debug\net9.0\Reuse_M2.genruntimeconfig.cache
+C:\dev\c#\polymorphismus\reuse_m2\starter\obj\Debug\net9.0\ref\Reuse_M2.dll
